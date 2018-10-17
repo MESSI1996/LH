@@ -1,0 +1,84 @@
+
+				 
+			.top_nav{width: 100%;
+				height: 32px;
+				
+				background-color: lightgrey;
+				text-align: center;
+				line-height: 30px;
+				}
+			.top_nav1{width: 125px; height: 32px;margin-left: 342px;}
+			.top_nav2{width: 125px; height: 32px;margin-left: 470px;margin-top:-35px;}
+			.top_nav3{width: 625px; height: 32px;;margin-left: 900px;margin-top:-35px; display: -webkit-flex;
+    			display: flex;font-size: 12px;font-family: "微软雅黑";}
+			.top_nav3_nav1{width:182px;height: 32px;color: red;}
+			.top_nav3_nav2{width: 80px;height: 32px;}
+			.top_nav3_nav3{width: 67px;height: 32px;}
+			.top_nav3_nav4{width: 55px;height: 32px;}
+			.top_nav3_nav5{width: 55px;height: 32px;}
+			
+			.log_tab{width: 100%;height: 126px; }
+			.log_tab_f1{width: 203px; height: 100px;margin-top: 18px;margin-left: 206px;background: url(img/优购.PNG);}
+			.log_tab_f2{width: 526px; height: 33px;margin-left:510px;margin-top: -61px;}
+			.log_tab_f2_1{width: 518px;height: 21px;margin-top: 9px;font-family: '微软雅黑';}
+			.log_tab_f2_1 a{text-decoration: none;color: #666;}
+			.log_tab_f2_1 ul li a:hover{color: red;}
+			.log_tab_f3{width: 146px; height: 20px;margin-left:1177px;margin-top: -35px;}
+			
+			
+			.shuiping_nav{width: 100%;height: 39px;border-bottom: 3px solid black;}
+			.shuiping_nav ul li{display: inline;margin-left: 55px;}
+			.shuiping_nav ul{margin-top: -30px;margin-left: 365px;font-family: "微软雅黑";font-size: 17px;font-weight: bold;color:black;}
+			.shuiping_nav ul a{text-decoration: none;color: black;}
+			.shuiping_nav ul li a:hover{color: red;}
+		
+		
+			.smallnav{margin-left: 206px;margin-top:10px;font-size: 12px;font-family: "微软雅黑";color: #666;}
+			.smallnav a:hover{color: red;}
+			
+			.shop_details{width:1163px;height: 496px;margin-left: 200px;margin-top: 10px;}
+			.shop_details_a1{width: 162px;height: 496px;border: 1px solid #EFEFEF;text-align: center;background-color: #FCFCFC;}
+			.shop_details_a1 ul{list-style: none;margin-left: -63px;font-weight: normal;}
+			.shop_details_a1 ul li{margin-top: 5px;}
+			.shop_details_a1 ul li a{text-decoration: none;color: #666666;}
+			.shop_details_a1 ul li a:hover{color: red;}
+			.xxxx{ text-align: left;line-height: 28px;background-color: #FF5000;display: block;width:161px;height: 30px;color: white;font-weight: bold;text-decoration: none;}
+			
+			
+			.shop_details_a2{width: 780px;height: 496px;margin-left: 175px;margin-top: -498px;}
+			
+			
+			.shop_details_a2_a1{width: 772px;height: 31px;margin-top: 10px;margin-left: 8px;font-size: 14px;color: #9999B6;}
+			.shop_details_a2_a1 div{float: left;width: 100px;height: 31px;
+			font-size: 12px;
+			color: grey;text-align: center;line-height: 29px;
+			border-color: grey
+			}
+			.shop_details_a2_a2{width: 772px;height: 100px;border: 1px solid #EFEFEF;margin-left: 8px;}
+			.shop_details_a2_a2_a1{width: 772;height: 40px;border: 1px solid #FBFBFB;background-color: #FBFBFB;}
+			.shop_details_a2_a2_a2{width: 772px;height: 60px;text-align: center;line-height: 30px;font-size: 12px;color:grey ;}
+			.shop_details_a2_a2_a2 a{text-decoration: none;}
+			.shop_details_a2_a2_a2 a:hover{color:red;}
+			
+			
+			.shop_details_a3{width: 205px;height: 496px;margin-left: 957px;margin-top: -498px;}
+			.shop_details_3_a1{width: 150px;height: 150px;margin-left: 20px;background: url(img/52.jpg);}
+			.shop_details_3_a2{width: 150px;height: 150px;margin-left: 20px;background: url(img/53.jpg);}
+			.shop_details_3_a3{width: 150px;height: 150px;margin-left: 20px;background: url(img/54.jpg);}
+			.shop_details_a3 a{text-decoration: none;color: black;}
+			.shop_details_a3 a:hover{color: red;}
+			
+			
+			
+			.bottom{height: 210px;background-color: #F4F4F4;}
+			.bottom_a1{width:1163px ;height: 50px ;border: 1px solid  #DDDDDD;margin-left: 200px;margin-top: 18px;font-size: 15px;}
+			.bottom_a1 ul a {text-decoration: none;color: black;}
+			.bottom_a1 ul a:hover{color: red;}
+			.bottom_a2{width:1163px ;height: 139px ;margin-left: 160px;font-size: 15px;}
+			.bottom_a2 ul li{list-style: none;font-size: 12px;}
+			.bottom_a2 ul  a{text-decoration: none;color: black;}
+			.bottom_a2 ul  a:hover{color: red;}
+			
+			
+			.bottom_a3{width:100% ;height: 130px ;background: url(img/66.PNG);background-color: black;margin-top: -16px;}
+		
